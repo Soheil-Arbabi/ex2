@@ -1,7 +1,5 @@
 Team Project
 Version 1.0
-<<<<<<< HEAD
 Feature B implemented
-=======
 Feature A implemented
->>>>>>> d1fc373 (One line is added)
+Feature C implemented
